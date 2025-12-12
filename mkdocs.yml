@@ -21,10 +21,8 @@ nav:
     - Jenkins: CICD/jenkins.md
   - Specifications:
     - Overview: specifications/README.md
-    - User Group Sync SRS: specifications/user-group-sync-srs.md
-    - User Lifecycle Management SRS: specifications/user-lifecycle-management-srs.md
-    - Implementation:
-      - Testing Strategy: specifications/implementation/testing-strategy.md
+    - System Requirements: specifications/user-group-sync-srs.md
+    - Testing Strategy: specifications/testing-strategy.md
 
 repo_name: robinmordasiewicz/f5-xc-user-group-sync
 repo_url: https://github.com/robinmordasiewicz/f5-xc-user-group-sync
