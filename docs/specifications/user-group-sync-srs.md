@@ -84,7 +84,7 @@
 
 **Implementation Guidance**:
 
-- [`implementation/testing-strategy.md`](implementation/testing-strategy.md) - Unit, integration, and E2E testing
+- [`testing-strategy.md`](testing-strategy.md) - Unit, integration, and E2E testing
 
 ---
 
@@ -2533,23 +2533,6 @@ def extract_cn(ldap_dn: str) -> str:
 - External dependencies abstracted through interfaces
 
 ---
-
-**Implementation guidance has been extracted to focused documents for improved usability and role-based access.**
-
-**See Implementation Guides**:
-
-- [`implementation/roadmap.md`](implementation/roadmap.md) - Feature priorities, implementation phases (MVP → Production → Advanced), dependency matrix
-- [`implementation/workflows.md`](implementation/workflows.md) - Step-by-step operational procedures (setup, sync, prune)
-- [`implementation/testing-strategy.md`](implementation/testing-strategy.md) - Unit, integration, and E2E testing strategies
-
-**See Deployment and Operations Guides**:
-
-- [`guides/deployment-guide.md`](guides/deployment-guide.md) - Overview of all deployment scenarios and platform selection
-- [`guides/github-actions-guide.md`](guides/github-actions-guide.md) - Complete GitHub Actions workflow configuration
-- [`guides/jenkins-guide.md`](guides/jenkins-guide.md) - Complete Jenkins pipeline configuration
-- [`guides/troubleshooting-guide.md`](guides/troubleshooting-guide.md) - Diagnostic commands, common issues, and resolutions
-
-These focused guides provide role-specific documentation for project managers, developers, DevOps/SRE teams, QA engineers, and operations personnel.
 
 ## 9. Appendices
 

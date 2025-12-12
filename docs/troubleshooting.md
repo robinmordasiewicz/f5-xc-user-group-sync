@@ -969,7 +969,7 @@ grep -i "failed" sync-debug.log
 
 ## Related Documentation
 
-- [Testing Strategy](specifications/implementation/testing-strategy.md) - Validation approaches
+- [Testing Strategy](specifications/testing-strategy.md) - Validation approaches
 - [GitHub Actions](CICD/github-actions.md) - CI/CD automation with GitHub
 - [GitLab CI](CICD/gitlab-ci.md) - CI/CD automation with GitLab
 - [Jenkins](CICD/jenkins.md) - CI/CD automation with Jenkins

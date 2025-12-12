@@ -262,8 +262,7 @@ pytest tests/e2e/ --e2e-env=staging --profile
 
 ## Related Documentation
 
-- [Operational Workflows](workflows.md) - Step-by-step operational procedures
-- [Deployment Guide](../guides/deployment-guide.md) - Deployment scenarios and automation
-- [Troubleshooting Guide](../guides/troubleshooting-guide.md) - Common issues and resolutions
-- [GitHub Actions Guide](../guides/github-actions-guide.md) - CI/CD automation with GitHub
-- [Jenkins Guide](../guides/jenkins-guide.md) - CI/CD automation with Jenkins
+- [Troubleshooting Guide](../troubleshooting.md) - Common issues and resolutions
+- [GitHub Actions](../CICD/github-actions.md) - CI/CD automation with GitHub
+- [GitLab CI](../CICD/gitlab-ci.md) - CI/CD automation with GitLab
+- [Jenkins](../CICD/jenkins.md) - CI/CD automation with Jenkins
